@@ -42,7 +42,7 @@
         <label for="">Password</label><br>
         <input type="password" name="password" placeholder="password"><br><br>
 
-        <input type="submit" name="submit" value="Daftar">
+        <input type="submit" name="submit" value="Masuk">
     </form>
 <?php
 
