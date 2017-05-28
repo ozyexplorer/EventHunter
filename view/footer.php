@@ -1,6 +1,6 @@
 
     <footer>
-        &copy; Copyright Barrur Rhozi 2016
+        &copy; Copyright Event Hunter 2017
     </footer>
 
     </body>
