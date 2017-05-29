@@ -35,7 +35,7 @@
 ?>
 
 
-    <form action="login.php" method="post">
+    <form action="login_member.php" method="post">
         <label for="">Nama</label><br>
         <input type="text" name="username" placeholder="username"><br><br>
 

@@ -66,3 +66,8 @@
         color: #333;
   }
 }
+
+
+.navbar-brand {
+  font-weight: bold;
+}
