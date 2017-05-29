@@ -14,7 +14,7 @@
                 if(cek_data($nama, $pass))
                 {
                     $_SESSION['user'] = $nama;
-                    header('location: index.php');
+                    header('location: profil_member.php');
                 } else 
                 {
 
