@@ -21,7 +21,7 @@
           </button>
           <a class="navbar-brand" href="#myPage">Event Hunter</a>
         </div>
-        <div class="collapse navbar-collapse" id="myNavbar">
+        <div class="collapse navbar-collapse">
           <ul class="nav navbar-nav navbar-right">
             <li><a href="#about">ABOUT</a></li>
             <li><a href="login.php">LOGIN</a></li>
